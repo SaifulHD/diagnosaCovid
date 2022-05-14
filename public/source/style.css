@@ -1,0 +1,112 @@
+.f-14{
+    font-size: 14px;
+}
+
+.f-24{
+    font-size: 24px;
+}
+
+.f-35{
+    font-size: 35px;
+}
+
+.bg-body{
+    background-color: #DBFEC5 !important;
+}
+
+.m-content{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.f-black{
+    color: #000000;
+}
+
+.foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #52734D;
+    width: 1600px;
+    Height: 120px; 
+    }
+
+    .hr{
+        border: 3px;
+        
+        color: black;
+    }
+
+    
+    .foot{
+      
+       width: 100%;
+    }
+
+    .color-nav{
+        background-color: #52734D;
+    }
+   
+    .footer{
+        background-color: #52734D;
+        height: 100px;
+        width: 100%;
+        
+    }
+    .list{
+        float:right;
+        display: block;
+    }
+    li{
+        list-style: none;
+    }
+    
+    .button{
+        width: 140px;
+    }
+
+    #content {
+        position: relative;
+        z-index: 2;
+        padding: 30px;
+        text-align: center;
+        font-weight: bold;
+        font-family: Arial, sans-serif;
+        height: 100%;
+        background: linear-gradient(90deg, #DBFEC5 50%, #FFFFFF 50%);
+    }
+    
+    .posisi{
+        text-align: center;
+        position: relative;
+    } 
+    
+    .jarak{
+      margin-top: 80px;
+    }
+    
+    .jarakk{
+       margin-top: -25px;
+    }
+    
+    .jarakkk{
+        margin-left: 15px;
+        margin-top: 120px;
+        text-align: left;
+    }
+    
+    .p{
+        margin-left: 15;
+        text-align: left;
+    }
+    
+    .img{
+        margin-left: 1000px;
+        height: 150px;
+    }
+
+    .font{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
