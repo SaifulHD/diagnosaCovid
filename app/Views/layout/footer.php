@@ -5,7 +5,7 @@
             <i class="fal fa-phone-alt f me-3"></i>
             <i class="fal fa-map-marker-alt f "></i>
         </div>
-        <span class="text-white text-center footer-text" style="display: block;">© 2022, Meina Noor Triana All Rights Reserved.
+        <span class="text-white text-center footer-text" style="display: block;">©<?= date("Y"); ?> Meina Noor Triana All Rights Reserved.
         </span>
     </div>
 </div>
